@@ -4,7 +4,7 @@ import java.io.*;
 
 public class FileUtils {
 
-    public static String basePath = "D:\\BankData\\";
+    public static String basePath = "D:\\BankData\\V1\\";
 
     public static void writeObjectToFile(String filename, Serializable object) {
         try {
